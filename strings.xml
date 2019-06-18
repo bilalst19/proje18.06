@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LetGo</string>
+    <string name="intro_first_line">Teknolojinin Adresi</string>
+    <string name="intro_second_line">Ücretsiz olarak cebinizde.</string>
+    <string name="btn_login">Buradan Giriş Yapın</string>
+    <string name="btn_user_sign">Buradan Kayıt Olun</string>
+    <string name="enter_mail">E-mail adresinizi girin</string>
+    <string name="enter_pw">Şifrenizi Girin</string>
+    <string name="user_login">Kullanıcı Girişi</string>
+    <string name="register_message">Yeni Kullanıcı Kayıt</string>
+    <string name="first_name">Adınız</string>
+    <string name="last_name">Soyadınız</string>
+    <string name="email">E-mail adresiniz</string>
+    <string name="password">Şifre</string>
+    <string name="confirm_pw">Şifreni Onayla</string>
+    <string name="tel">Telefon Numaranız</string>
+    <string name="btn_register">Kayıt Ol</string>
+    <string name="popular_products">Popüler Ürünler</string>
+    <string name="category_browse">Kategorilere Göz At</string>
+
+
+</resources>
